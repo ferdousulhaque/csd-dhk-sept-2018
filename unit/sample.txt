@@ -1,0 +1,5 @@
+Feature: Caculator addition test
+Scenerio: adding two positive number
+Given i have a number 10 and i have another number 20
+When i click + button
+Then i will have 30 as result
